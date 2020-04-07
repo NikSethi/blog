@@ -21,7 +21,7 @@ My plans for this blog are to
 
 We’ll see how it pans out, but at worst, I’ll have a bunch of blog posts saved on Github as Markdown files that I can easily move to other places. My biggest issues with my other writing sources is how awful they are to work with. Mailchimp is just a disgusting behemoth that I continue to work with because they’re the only platform that give me any creative control over the appearance of my emails! Wordpress had okay exporting and Tumblr did as well, but I don’t love the idea of having to write python scripts just to be able to import my blog posts into different platforms, but that’s neither here nor there.
 
-Before I started this, I had begun working on a blog to house my newsletter outside of Mailchimp’s horrible UI. Essentially, I’m self-creating an individual version of Substack because I think it’s the Medium of newsletters. Around that time, I started to get excited about the prospect of having a blog I could post on regularly! But I didn’t get around to it until I re-recommended [that Robin Sloan post] I’m obsessed with:
+Before I started this, I had begun working on a blog to house my newsletter outside of Mailchimp’s horrible UI. Essentially, I’m self-creating an individual version of Substack because I think it’s the Medium of newsletters. Around that time, I started to get excited about the prospect of having a blog I could post on regularly! But I didn’t get around to it until I re-recommended [that Robin Sloan post](https://www.robinsloan.com/notes/things-you-love/) I’m obsessed with:
 > A blogger can simply
 > 1. love a thing, and
 > 2. write about it.
