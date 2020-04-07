@@ -1,0 +1,22 @@
+baseURL = "http://blog.niksethi.com/"
+languageCode = "en-us"
+title = "nikblogs"
+theme = "rocinante"
+
+paginate = 3
+
+[markup]
+  [markup.highlight]
+    style = "monokailight"
+  [markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+  mainSections = ["post", "photos"]
+  email = "email@example.com"
+  favicon = "/icon/favicon.jpg"
+  about = """
+hey, i'm **nikhil**, but some know me as [niknaps](http://twitter.com/niknaps). i design software for a living and i write for fun.
+
+if you wanna read more by me, check out [my newsletter, splash](https://us16.campaign-archive.com/home/?u=d3fa317b2165c35df5d5be6ca&id=a105e05d80)
+"""
