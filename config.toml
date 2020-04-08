@@ -1,4 +1,4 @@
-baseURL = "http://blog.niksethi.com/"
+baseURL = "https://blog.niksethi.com/"
 languageCode = "en-us"
 title = "nikblogs"
 theme = "rocinante"
