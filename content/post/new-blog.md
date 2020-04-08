@@ -4,10 +4,9 @@ date: 2020-04-06
 tags: ["daily", "blogging"]
 ---
 
-Another day another blog!
-<!--more-->
-
 _warning, this blog entry has a lot of terribly boring platform/app talk that you can probably skim through or skip entirely. i promise that future versions won’t be like this. thanks, love you!_
+
+<!--more-->
 
 I think I'm addicted to making blogs. For whatever reason, every year or two, I make another one. I've never been a super consistent blogger, so it usually means that I want to end a hiatus from writing by bursting back into the blogosphere, only to discover that I no longer like whatever my most recent blog looks and feels like. 
 
