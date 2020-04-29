@@ -1,0 +1,13 @@
+---
+title: Side Characters
+date: 2020-04-28
+tags: ["daily", "anime", "stories"]
+---
+
+I used to read a lot of fantasy books and would love to get lost in the lore. I loved to learn about the edges of each world, just beyond the main story. Like yes, I would love to learn more about the random village hundreds of miles away from the objective of this book. Books with maps like the Inheritance series or the Merlin Saga were a delight! I would love flipping to the map just to trace out the journey of the characters, and try to figure out where they would go next.
+
+As I’ve gotten older, I’ve found it harder to commit to the sheer volume of fantasy books, often thinking that the lore of real life often surpasses that of fantasy novels. With less exposition needed to explain the worlds, these books don’t boast over 500 pages per book. Now that I think about it, there have been very few books over 500 pages that I’ve read since I entered high school (around 9 years ago). I think I always just like to imagine what people’s lives are like, regardless of whether they exist in our world or another’s. I remember getting emotional thinking about the people that Cell absorbed in _Dragon Ball Z_ or the people living in the world of _Transformers_ (other than Shia Labeouf’s character).
+
+But my love of built worlds continues. _Naruto_ has been really key to my sanity lately. I’m re-watching Shippuden, except a condensed fan-made version called “Naruto Kai” that I watch at 2x speed so I can see my favorite bits quickly. Since I’ve seen the whole thing already (and many parts multiple times), I feel comfortable jumping into the Naruto Wiki to just learn about different characters in-depth or their powers or their family history or literally anything else. Once a show has 720 episodes, it’s incredible how full of a world they can create. The show focuses on powerful ninja, who essentially serve as the military force of villages in different countries. At some point, I started to realize that the majority of the population of this world exists outside of the focus of the show, which had me thinking about what it’s like to be an average Joe in that type of world.
+
+If I think about it more, I guess it’s like being an extra in every movie set in our world. Like, when a bunch of quarantine movies get made in the coming years, I’m sure that we’ll see a lot about healthcare workers and essential workers (deservedly), but the stories of average people blogging will likely be left out. The real world will thankfully have records of those people, in bad NYT pieces and amazing blogs from random people. 
