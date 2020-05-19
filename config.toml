@@ -5,6 +5,9 @@ theme = "rocinante"
 
 paginate = 3
 
+enableRobotsTXT = true
+canonifyURLs = true
+
 [markup]
   [markup.highlight]
     style = "monokailight"
