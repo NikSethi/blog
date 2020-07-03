@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.niksethi.com/tags/community/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
+    <loc>https://blog.niksethi.com/post/moving-forward/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://blog.niksethi.com/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.niksethi.com/tags/playlist/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.niksethi.com/post/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.niksethi.com/tags/</loc>
+    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.niksethi.com/tags/community/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,17 +38,7 @@
   </url>
   
   <url>
-    <loc>https://blog.niksethi.com/post/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blog.niksethi.com/tags/stories/</loc>
-    <lastmod>2020-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.niksethi.com/tags/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
   
