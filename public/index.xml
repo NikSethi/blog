@@ -47,14 +47,5 @@
       <description>&lt;p&gt;&lt;em&gt;warning, this blog entry has a lot of terribly boring platform/app talk that you can probably skim through or skip entirely. i promise that future versions won’t be like this. thanks, love you!&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Contact</title>
-      <link>https://blog.niksethi.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.niksethi.com/contact/</guid>
-      <description>You can reach me by Email at email[at]example.com</description>
-    </item>
-    
   </channel>
 </rss>
