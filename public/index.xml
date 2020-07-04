@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nikblogs</title>
+    <link>https://blog.niksethi.com/</link>
+    <description>Recent content on nikblogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.niksethi.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the Loss of my College Twitter Community</title>
+      <link>https://blog.niksethi.com/post/twitter-community/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.niksethi.com/post/twitter-community/</guid>
+      <description>This month, most of my friends still in school graduated, making me realize that it’s been over a year since I got out. What a strange thing. After graduation, I spent 6 weeks at home: job searching, job acquiring, and then packing to uproot my life and move across the country to a city where I barely knew anyone. As I thought about the unknown world on the Left Coast, I decided to try and use Twitter to avoid feeling too isolated in my new life.</description>
+    </item>
+    
+    <item>
+      <title>Side Characters</title>
+      <link>https://blog.niksethi.com/post/side-characters/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.niksethi.com/post/side-characters/</guid>
+      <description>I used to read a lot of fantasy books and would love to get lost in the lore. I loved to learn about the edges of each world, just beyond the main story. Like yes, I would love to learn more about the random village hundreds of miles away from the objective of this book. Books with maps like the Inheritance series or the Merlin Saga were a delight! I would love flipping to the map just to trace out the journey of the characters, and try to figure out where they would go next.</description>
+    </item>
+    
+    <item>
+      <title>Jammin&#39; with Niknaps and KTastrophe</title>
+      <link>https://blog.niksethi.com/post/jammin/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.niksethi.com/post/jammin/</guid>
+      <description>&lt;p&gt;This weekend, KT and I spent some time &lt;em&gt;just vibing&lt;/em&gt; in Ableton, thanks to their extended free trial for the time of COVID-19. With the software and a MIDI keyboard borrowed from the ever-gracious AIR APPARENT (my much more musical brother), we were ready to BUILD.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A new blog (again)</title>
+      <link>https://blog.niksethi.com/post/new-blog/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.niksethi.com/post/new-blog/</guid>
+      <description>&lt;p&gt;&lt;em&gt;warning, this blog entry has a lot of terribly boring platform/app talk that you can probably skim through or skip entirely. i promise that future versions won’t be like this. thanks, love you!&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://blog.niksethi.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.niksethi.com/contact/</guid>
+      <description>You can reach me by Email at email[at]example.com</description>
+    </item>
+    
+  </channel>
+</rss>
