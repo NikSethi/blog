@@ -5,7 +5,6 @@ tags: ["daily", "music", "creativity"]
 ---
 
 This weekend, KT and I spent some time _just vibing_ in Ableton, thanks to their extended free trial for the time of COVID-19. With the software and a MIDI keyboard borrowed from the ever-gracious AIR APPARENT (my much more musical brother), we were ready to BUILD.
-<!--more-->
 
 We focused on recreating some songs from scratch: first MGMT’s “Electric Feel” and Ivy Lab’s “Jet Lag.” Being able to learn how to use the tools without having to also generate new tunes made the big scary app seem more accessible. Breaking down songs was also a fascinating exercise in discovering how composition worked. Ever since I got my bass many months ago, I’ve started picking out the bass line out of songs as a form of study (in hopes that it will inspire me to actually learn to play), but doing the same for every component of a song was another story. Thankfully, KT studied music for over a dozen years, and I could lean on her ability to know things like the length of notes and figure out time signatures. What we finished with resembled the songs closely, but we didn’t go as far to completely recreate the songs and match our instruments perfectly. 
 
