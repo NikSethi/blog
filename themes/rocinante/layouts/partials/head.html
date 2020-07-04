@@ -1,8 +1,9 @@
 <meta charset="utf-8">
 <meta property="og:type"   content="Cookies" /> 
-      <meta property="og:url"    content="http://example.com" /> 
-      <meta property="og:title"  content="Sample Object" /> 
-      <meta property="og:image"  content="https://Example.com/Images/Picture.png" />
+      <meta property="og:image"    content="/icon/favicon.jpg" /> 
+      <meta property="og:title"  content="{{ .Title }}" /> 
+      <meta property="og:description"  content="{{ .Title }}" /> 
+      <meta property="og:url"  content="https://blog.niksethi.com{{.RelPermalink}}" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>{{ if ne .Title .Site.Title }}{{ .Title }} · {{ end }}{{ .Site.Title }}</title>
