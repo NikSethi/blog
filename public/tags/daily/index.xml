@@ -26,7 +26,8 @@
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.niksethi.com/post/jammin/</guid>
-      <description>&lt;p&gt;This weekend, KT and I spent some time &lt;em&gt;just vibing&lt;/em&gt; in Ableton, thanks to their extended free trial for the time of COVID-19. With the software and a MIDI keyboard borrowed from the ever-gracious AIR APPARENT (my much more musical brother), we were ready to BUILD.&lt;/p&gt;</description>
+      <description>This weekend, KT and I spent some time just vibing in Ableton, thanks to their extended free trial for the time of COVID-19. With the software and a MIDI keyboard borrowed from the ever-gracious AIR APPARENT (my much more musical brother), we were ready to BUILD.
+We focused on recreating some songs from scratch: first MGMT’s “Electric Feel” and Ivy Lab’s “Jet Lag.” Being able to learn how to use the tools without having to also generate new tunes made the big scary app seem more accessible.</description>
     </item>
     
     <item>
@@ -36,6 +37,17 @@
       
       <guid>https://blog.niksethi.com/post/new-blog/</guid>
       <description>&lt;p&gt;&lt;em&gt;warning, this blog entry has a lot of terribly boring platform/app talk that you can probably skim through or skip entirely. i promise that future versions won’t be like this. thanks, love you!&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A new blog (again)</title>
+      <link>https://blog.niksethi.com/post/test/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.niksethi.com/post/test/</guid>
+      <description>https://twitter.com/DRMacIver/status/1273559680619552770
+[ ] foo [x] bar
+this is a thing [^1] [^1]: ain&amp;rsquo;t that some shit sdkfjsdlkfjsd</description>
     </item>
     
   </channel>

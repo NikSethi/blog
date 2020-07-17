@@ -13,6 +13,11 @@ canonifyURLs = true
     style = "monokailight"
   [markup.goldmark.renderer]
     unsafe= true
+  [markup.goldmark.extensions]
+    linkify= true
+    tasklist= true
+    footnotes= true
+    typographer= true
 
 [params]
   mainSections = ["post", "photos"]
