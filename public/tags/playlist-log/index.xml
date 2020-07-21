@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>music on nikblogs</title>
-    <link>https://blog.niksethi.com/tags/music/</link>
-    <description>Recent content in music on nikblogs</description>
+    <title>playlist log on nikblogs</title>
+    <link>https://blog.niksethi.com/tags/playlist-log/</link>
+    <description>Recent content in playlist log on nikblogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.niksethi.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.niksethi.com/tags/playlist-log/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>https://blog.niksethi.com/post/playlist-log-solitary-summer/</guid>
       <description>I spent a lot of summers listening to deeply depressing music by Sufjan Stevens, Frank Ocean, and The Antlers, among others. For the brightest months of the year, I would be buried under a cloud of sad. Eventually, I graduated high school, and started to find more joy in my summers (I made some friends!). Classic summer music suddenly was more appealing than ever, and I got into the habit of making summer playlists to announce my love of the sound.</description>
-    </item>
-    
-    <item>
-      <title>Jammin&#39; with Niknaps and KTastrophe</title>
-      <link>https://blog.niksethi.com/post/jammin/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.niksethi.com/post/jammin/</guid>
-      <description>This weekend, KT and I spent some time just vibing in Ableton, thanks to their extended free trial for the time of COVID-19. With the software and a MIDI keyboard borrowed from the ever-gracious AIR APPARENT (my much more musical brother), we were ready to BUILD.
-We focused on recreating some songs from scratch: first MGMT’s “Electric Feel” and Ivy Lab’s “Jet Lag.” Being able to learn how to use the tools without having to also generate new tunes made the big scary app seem more accessible.</description>
     </item>
     
   </channel>

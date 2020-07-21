@@ -6,10 +6,28 @@
     <description>Recent content on nikblogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.niksethi.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Figuring Things Out</title>
+      <link>https://blog.niksethi.com/post/figuring-things-out/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.niksethi.com/post/figuring-things-out/</guid>
+      <description>After growing up in a house with a lot of rules and spending little time outside of it, I found myself loving the idea of not having commitments. Without commitments, any chunk of time is for whatever I want. My whims can choose where the time goes. Not anyone else, except for me. Even as I work a full-time job, I wonder what it would be like to find a more autonomous gig, where I wouldn’t even be bound by location or 9-5 expectations.</description>
+    </item>
+    
+    <item>
+      <title>Playlist Log: solitary summer</title>
+      <link>https://blog.niksethi.com/post/playlist-log-solitary-summer/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.niksethi.com/post/playlist-log-solitary-summer/</guid>
+      <description>I spent a lot of summers listening to deeply depressing music by Sufjan Stevens, Frank Ocean, and The Antlers, among others. For the brightest months of the year, I would be buried under a cloud of sad. Eventually, I graduated high school, and started to find more joy in my summers (I made some friends!). Classic summer music suddenly was more appealing than ever, and I got into the habit of making summer playlists to announce my love of the sound.</description>
+    </item>
     
     <item>
       <title>On the Loss of my College Twitter Community</title>
@@ -46,17 +64,6 @@ We focused on recreating some songs from scratch: first MGMT’s “Electric Fee
       
       <guid>https://blog.niksethi.com/post/new-blog/</guid>
       <description>&lt;p&gt;&lt;em&gt;warning, this blog entry has a lot of terribly boring platform/app talk that you can probably skim through or skip entirely. i promise that future versions won’t be like this. thanks, love you!&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>A new blog (again)</title>
-      <link>https://blog.niksethi.com/post/test/</link>
-      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.niksethi.com/post/test/</guid>
-      <description>https://twitter.com/DRMacIver/status/1273559680619552770
-[ ] foo [x] bar
-this is a thing [^1] [^1]: ain&amp;rsquo;t that some shit sdkfjsdlkfjsd</description>
     </item>
     
   </channel>
