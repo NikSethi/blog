@@ -6,7 +6,7 @@ tags: ["music", "creativity"]
 ---
 
 
-A few years ago, I would pop onto a website called turntable.fm, where you could pick a cute little avatar to represent yourself in a room and choose to either be a DJ and play music for the room or just vibe as a listener. As a DJ, you could pick from songs from an existing catalog or upload your own, which made the service popular with DJs like Diplo. With each song, every person in the room had the option to vote on whether or not they liked the song, a form of instant feedback. At the time, turntable.fm was the most interactive and fun way to listen to music, but it struggled to compete with Spotify and Pandora’s mobile offering and [ultimately folded].
+A few years ago, I would pop onto a website called turntable.fm, where you could pick a cute little avatar to represent yourself in a room and choose to either be a DJ and play music for the room or just vibe as a listener. As a DJ, you could pick from songs from an existing catalog or upload your own, which made the service popular with DJs like Diplo. With each song, every person in the room had the option to vote on whether or not they liked the song, a form of instant feedback. At the time, turntable.fm was the most interactive and fun way to listen to music, but it struggled to compete with Spotify and Pandora’s mobile offering and [ultimately folded](https://www.theverge.com/2013/12/2/5167020/dropping-the-needle-the-life-and-death-of-turntable-fm).
 
 ----
 
