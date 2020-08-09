@@ -6,10 +6,28 @@
     <description>Recent content in Tags on nikblogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.niksethi.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>creativity</title>
+      <link>https://blog.niksethi.com/tags/creativity/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.niksethi.com/tags/creativity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://blog.niksethi.com/tags/music/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.niksethi.com/tags/music/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>anxiety</title>
@@ -26,15 +44,6 @@
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.niksethi.com/tags/personal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>https://blog.niksethi.com/tags/music/</link>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.niksethi.com/tags/music/</guid>
       <description></description>
     </item>
     
@@ -89,15 +98,6 @@
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.niksethi.com/tags/daily/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>creativity</title>
-      <link>https://blog.niksethi.com/tags/creativity/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.niksethi.com/tags/creativity/</guid>
       <description></description>
     </item>
     

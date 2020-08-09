@@ -6,10 +6,19 @@
     <description>Recent content in Posts on nikblogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.niksethi.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JQBX.fm and Live Collaboration</title>
+      <link>https://blog.niksethi.com/post/live-collaboration/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.niksethi.com/post/live-collaboration/</guid>
+      <description>A few years ago, I would pop onto a website called turntable.fm, where you could pick a cute little avatar to represent yourself in a room and choose to either be a DJ and play music for the room or just vibe as a listener. As a DJ, you could pick from songs from an existing catalog or upload your own, which made the service popular with DJs like Diplo. With each song, every person in the room had the option to vote on whether or not they liked the song, a form of instant feedback.</description>
+    </item>
     
     <item>
       <title>Figuring Things Out</title>
