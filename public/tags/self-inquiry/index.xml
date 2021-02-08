@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>self-inquiry on nikblogs</title>
+    <link>https://blog.niksethi.com/tags/self-inquiry/</link>
+    <description>Recent content in self-inquiry on nikblogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.niksethi.com/tags/self-inquiry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Know Yourself</title>
+      <link>https://blog.niksethi.com/post/know-yourself/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.niksethi.com/post/know-yourself/</guid>
+      <description>What does it mean to know yourself? Is it uncovering a unique set of views or ideas or beliefs that exist independently of any external influence? That is, is anything about me my own creation, or am I fully a product of the world I was born and raised in? And so, is it ever possible to fully know myself, or can I just figure out a set of preferences that were subconsciously formed at the intersection of people, culture, and community in my life?</description>
+    </item>
+    
+  </channel>
+</rss>
