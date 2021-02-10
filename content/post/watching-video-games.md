@@ -1,7 +1,7 @@
 ---
 title: Watching People Play Video Games
 date: 2021-02-10
-tags: ["art", "creativity", "self-inquiry", "daily"]
+tags: ["art", "video games", "self-inquiry", "daily"]
 ---
 
 When I think about the swathes of time that I've had over the last year of quarantine, I wonder where I spent my leisure time. Sure, I watched a good deal of anime, TV shows, TikToks, and movies, but where did the rest of the time go? Or in general, where have I spent most of my time on the internet in my life. I don't have any statistics to back it up, but I'd guess that I've spent a good deal of time watching people play video games. 
