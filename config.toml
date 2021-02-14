@@ -24,7 +24,7 @@ canonifyURLs = true
   email = "email@example.com"
   favicon = "/icon/favicon.jpg"
   about = """
-hey, i'm **nikhil**, but some know me as [niknaps](http://twitter.com/niknaps). i design software for a living and i write for fun. here's a link to the [rss feed for this blog](https://blog.niksethi.com/post/index.xml).
+hey, i'm [**nikhil**](https://niksethi.com), but some know me as [niknaps](https://twitter.com/niknaps). i design software for a living and i write for fun. here's a link to the [rss feed for this blog](https://blog.niksethi.com/post/index.xml).
 
 if you wanna read more by me, check out [my newsletter, splash](https://us16.campaign-archive.com/home/?u=d3fa317b2165c35df5d5be6ca&id=a105e05d80)
 """
