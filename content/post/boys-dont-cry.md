@@ -1,8 +1,8 @@
-—
-title:  Boys Don’t Cry
+—--
+title: Boys Don’t Cry
 date: 2025-10-25
 tags: [“music”, “creativity”]
-—
+—--
 
 I’ve been listening to less music than I used to. Gone are the days of constantly blasting through endless playlists and several albums a day. I’ve been trying to cut down my Spotify usage, instead opting for music I’ve downloaded on my phone. But I only have so many songs on there, and sometimes I’m missing the song that’s so deeply engrained into my brain that I can’t listen to anything else.
 
