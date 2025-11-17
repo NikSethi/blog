@@ -1,0 +1,80 @@
+<meta charset="utf-8">
+<meta property="og:type"   content="Website" /> 
+      <meta property="og:image"    content="https://blog.niksethi.com/icon/favicon.jpg" /> 
+      <meta property="og:title"  content="{{ .Title }}" /> 
+      <meta property="og:description"  content="{{ .Content }}" /> 
+      <meta property="og:url"  content="https://blog.niksethi.com{{.RelPermalink}}" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>{{ if ne .Title .Site.Title }}{{ .Title }} · {{ end }}{{ .Site.Title }}</title>
+
+{{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
+{{ $style := resources.Get "css/rocinante.scss" | resources.ToCSS $options  }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+
+{{/* Add your custom CSS here - Option 1: Link to a static CSS file */}}
+{{ if (fileExists "static/css/custom.css") }}
+<link rel="stylesheet" href="{{ "/css/custom.css" | relURL }}">
+{{ end }}
+
+{{/* Font Face Declarations - Add your font files to static/fonts/ */}}
+<style>
+  /* Instrument Serif for headers */
+  @font-face {
+    font-family: 'Instrument Serif';
+    src: url('/fonts/InstrumentSerif-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Instrument Serif';
+    src: url('/fonts/InstrumentSerif-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+  }
+
+  /* Charter for body text */
+  @font-face {
+    font-family: 'Charter';
+    src: url('/fonts/Charter Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Charter';
+    src: url('/fonts/Charter Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Charter';
+    src: url('/fonts/Charter Italic.otf') format('opentype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Charter';
+    src: url('/fonts/Charter Bold Italic.otf') format('opentype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+  }
+</style>
+
+{{ with .Site.Params.favicon }}
+<link rel="shortcut icon" href="{{ . }}">
+{{ end }}
+
+{{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
+
